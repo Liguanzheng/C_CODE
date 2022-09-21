@@ -1,0 +1,5 @@
+﻿  add1.cpp
+  源.cpp
+  正在生成代码...
+E:\code\test_22_9_21\test_22_9_21\源.cpp(51): warning C4715: “Search_number”: 不是所有的控件路径都返回值
+  test_22_9_21.vcxproj -> E:\code\test_22_9_21\x64\Debug\test_22_9_21.exe
