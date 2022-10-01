@@ -1,0 +1,10 @@
+﻿  源.c
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): message : 此参数用作缓冲区大小
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“char *”
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): message : 此参数用作缓冲区大小
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): message : 占位符和其参数预计 10 可变参数，但提供的却是 5 参数
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): message : 缺失的可变参数 6 为格式字符串“%c”所需
+E:\code\test_22_9_29\test_22_9_29\源.c(79,10): message : 此参数用作缓冲区大小
+  test_22_9_29.vcxproj -> E:\code\test_22_9_29\x64\Debug\test_22_9_29.exe
