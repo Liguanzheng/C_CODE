@@ -1,0 +1,4 @@
+﻿  源.c
+E:\code\test_22_9_30\test_22_9_30\源.c(62,15): warning C4101: “i”: 未引用的局部变量
+E:\code\test_22_9_30\test_22_9_30\源.c(48): warning C4715: “Fac2”: 不是所有的控件路径都返回值
+  test_22_9_30.vcxproj -> E:\code\test_22_9_30\x64\Debug\test_22_9_30.exe
