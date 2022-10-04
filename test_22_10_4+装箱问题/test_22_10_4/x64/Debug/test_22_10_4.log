@@ -1,0 +1,14 @@
+﻿  源.c
+E:\code\test_22_10_4\test_22_10_4\源.c(18,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\test_22_10_4\test_22_10_4\源.c(23,11): warning C4047: “<”:“int *”与“int”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(25,23): warning C4047: “函数”:“int *”与“int”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(25,20): warning C4024: “ADD”: 形参和实参 1 的类型不同
+E:\code\test_22_10_4\test_22_10_4\源.c(27,17): warning C4047: “==”:“int *”与“int”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(31,22): warning C4047: “函数”:“int *”与“int”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(31,20): warning C4024: “ADD”: 形参和实参 1 的类型不同
+E:\code\test_22_10_4\test_22_10_4\源.c(33,16): warning C4047: “>”:“int *”与“int”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(37,29): warning C4047: “return”:“int”与“int *”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(40,22): warning C4047: “函数”:“int *”与“int”的间接级别不同
+E:\code\test_22_10_4\test_22_10_4\源.c(40,20): warning C4024: “ADD”: 形参和实参 1 的类型不同
+E:\code\test_22_10_4\test_22_10_4\源.c(43): warning C4715: “ADD”: 不是所有的控件路径都返回值
+  test_22_10_4.vcxproj -> E:\code\test_22_10_4\x64\Debug\test_22_10_4.exe
