@@ -1,0 +1,4 @@
+﻿  源.c
+E:\code\test_22_10_18\test_22_10_18\源.c(7,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\test_22_10_18\test_22_10_18\源.c(111,2): warning C4013: “gets”未定义；假设外部返回 int
+  test_22_10_18.vcxproj -> E:\code\test_22_10_18\x64\Debug\test_22_10_18.exe
