@@ -1,0 +1,9 @@
+﻿  源.c
+E:\code\test_22_10_22\test_22_10_22\源.c(187,15): warning C4047: “函数”:“char”与“char [100]”的间接级别不同
+E:\code\test_22_10_22\test_22_10_22\源.c(187,12): warning C4024: “copy”: 形参和实参 2 的类型不同
+E:\code\test_22_10_22\test_22_10_22\源.c(238,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\code\test_22_10_22\test_22_10_22\源.c(244,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\code\test_22_10_22\test_22_10_22\源.c(349,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\test_22_10_22\test_22_10_22\源.c(350,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\test_22_10_22\test_22_10_22\源.c(427,28): warning C4028: 形参 2 与声明不同
+  test_22_10_22.vcxproj -> E:\code\test_22_10_22\x64\Debug\test_22_10_22.exe
